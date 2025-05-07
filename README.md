@@ -1,6 +1,6 @@
 1. In this game, players can control the movement of the spaceship by moving up, down, left and right.
 
-2. The number of times the enemies in the first level and the enemies in the second level need to be designed to receive damage is different.
+2. The number of times the player needs to shoot the enemies in the first and second levels is different, and the number of times their health is damaged is also different.
 
 3. Players can save scores
 
